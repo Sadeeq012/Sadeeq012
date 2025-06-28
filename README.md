@@ -1,6 +1,6 @@
 # Abubakar Umar
 
-🎓 Educator | 💻 EdTech Advocate | 🧠 AI Enthusiast | 🌍 African Digital Marketer
+Educator |EdTech Advocate | AI Enthusiast |  African Digital Marketer
 
 I build and support education + digital tools that empower communities—especially Hausa speakers—through content, code, and strategy.
 
@@ -20,9 +20,10 @@ Stack & Tools:
 - English (fluent)
 - Hausa (native)
 
-## 🧠 Interests:
-- AI in Education 🤖📚
-- Open EdTech tools for underserved communities 🌍
-- Bilingual (Hausa-English) content creation & localization 📝🌐
+ Interests:
+- AI in Education
+- Open EdTech tools for underserved communities 
+- Bilingual (Hausa-English) content creation & localisation 
 
 > Let’s build solutions that educate, inspire, and scale across Africa.
+> Let Connect on LinkedIn @ https://www.linkedin.com/in/abubakarumar/
