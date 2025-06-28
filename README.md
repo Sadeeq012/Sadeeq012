@@ -27,3 +27,4 @@ Stack & Tools:
 
 > Let’s build solutions that educate, inspire, and scale across Africa.
 > Let Connect on LinkedIn @ https://www.linkedin.com/in/abubakarumar/
+> View my YouTube Channel https://www.youtube.com/@AbokinAI
